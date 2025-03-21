@@ -7,6 +7,8 @@
     "build": "farm build",
     "preview": "farm preview",
     "clean": "farm clean",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
     "postinstall": "flowbite-react patch"
   },
   "dependencies": {
