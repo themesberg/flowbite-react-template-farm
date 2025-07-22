@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@farmfe/js-plugin-postcss": "^1.12.0",
-    "flowbite-react": "^0.12.1",
+    "flowbite-react": "^0.12.2",
     "postcss": "^8.5.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
